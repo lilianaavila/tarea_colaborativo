@@ -2,3 +2,8 @@ Este archivo será utilizado para emular modificaciones en el proyecto
 colaborativo.
 
 LilianaAvila_Persona_1.
+AnaVirgen_Persona_2
+
+El reporsitorio remoto actualizado se puede encontrar en las url´s
+https://github.com/lilianaavila/tarea_colaborativo
+https://github.com/anavirgen/tarea_colaborativo
